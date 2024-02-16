@@ -1,9 +1,11 @@
 # PHÁC ĐỒ #
+
 ## BỆNH TAY CHÂN MIỆNG (2024) ##
   - [292 Phác đồ bệnh tay chân miệng 2024.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308563/292.Phac.d.b.nh.tay.chan.mi.ng.2024.pdf)
   - ![0022](https://github.com/BsNgChiThanh/phac-do/assets/82578024/62dd1115-8f10-45ee-b3c1-0051e02a0fd0)
   - ![0023](https://github.com/BsNgChiThanh/phac-do/assets/82578024/1df2010a-512a-40d6-9c94-fc38b56ea680)
   - ![0024](https://github.com/BsNgChiThanh/phac-do/assets/82578024/386420a5-6bee-4df5-ae46-e3f6a9cfffa1)
+
 ## PHÁC ĐỒ SỐT XUẤT HUYẾT (2023) ##
   - [2760 Phác đồ điều trị sxh 2023 byt.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308606/2760.Phac.d.di.u.tr.sxh.2023.byt.pdf)
   - ![0001](https://github.com/BsNgChiThanh/phac-do/assets/82578024/124bad29-bed7-4249-ba1c-6a78e0e2b361)
@@ -30,10 +32,28 @@
   - [Cân nặng hiệu chỉnh SXH người lớn.xlsx](https://github.com/BsNgChiThanh/phac-do/files/14308743/Can.n.ng.hi.u.ch.nh.SXH.ng.i.l.n.xlsx)
   - [Cân nặng truyền dịch SXH Trẻ em.xlsx](https://github.com/BsNgChiThanh/phac-do/files/14308746/Can.n.ng.truy.n.d.ch.SXH.Tr.em.xlsx)
 
+## PHÁC ĐỒ SỐT RÉT (2023) ##
+  - [3377 phác đồ điều trị sốt rét 2023.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308815/3377.phac.d.di.u.tr.s.t.ret.2023.pdf)
 
+## PHÁC ĐỒ BỆNH DA LIỄU (2023) ##
+  - [4416 Điều trị các bệnh da liễu 2023.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308827/4416.Di.u.tr.cac.b.nh.da.li.u.2023.pdf)
 
+## BỆNH MẠCH VÀNH CẤP (2020) ##
+  - [Bệnh mạch vành cấp 2020.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308841/B.nh.m.ch.vanh.c.p.2020.pdf)
 
+## BỆNH PHỔI MÔ KẺ (2023) ##
+  - [Bệnh phổi mô kẻ 2023.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308850/B.nh.ph.i.mo.k.2023.pdf)
 
+## BỆNH COPD (2018) ##
+  - [Bộ-Y-tế-Hướng-dẫn-chẩn-đoán-và-điều-trị-BPTNMT-bản-cập-nhật-2018.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308864/B.-Y-t.-H.ng-d.n-ch.n-doan-va-di.u-tr.-BPTNMT-b.n-c.p-nh.t-2018.pdf)
+
+## CẨM NANG ĐIỀU TRỊ NỘI (2022) ##
+  - [Cẩm nang điều trị nội khoa 2022.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308875/C.m.nang.di.u.tr.n.i.khoa.2022.pdf)
+
+## HỒI SỨC TÍCH CỰC (2015) ##
+  - [Huong dan chan doan va xu tri hoi suc tich cuc  2015.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308895/Huong.dan.chan.doan.va.xu.tri.hoi.suc.tich.cuc.2015.pdf)
+
+## 
 
 
 
