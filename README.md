@@ -74,12 +74,9 @@
 ## HUYẾT HỌC (2022) ##
   - [Phác đồ điều trị bệnh huyết học 2022.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309030/Phac.d.di.u.tr.b.nh.huy.t.h.c.2022.pdf)
 
-## PHÁC ĐỒ NHI ĐỒNG 2 (2016) ##
+## PHÁC ĐỒ NHI ĐỒNG 2 (2017) ##
   - [PHAC ĐỒ ĐIỀU TRỊ NHI  CỦA NHI ĐỒNG 2 NĂM 2016.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309038/PHAC.D.DI.U.TR.NHI.C.A.NHI.D.NG.2.NAM.2016.pdf)
+  - [Sổ tay điều trị nhi 2017.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309141/S.tay.di.u.tr.nhi.2017.pdf)
 
-## 
-
-
-
-
-
+## THUỐC TIM MẠCH TRONG THỰC HÀNH LÂM SÀNG ##
+  - [THUỐC-TIM-MẠCH-TRONG-THỰC-HÀNH-LÂM-SÀNG.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309174/THU.C-TIM-M.CH-TRONG-TH.C-HANH-LAM-SANG.pdf)
