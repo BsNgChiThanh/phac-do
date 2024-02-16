@@ -34,17 +34,23 @@
 
 ## PHÁC ĐỒ SỐT RÉT (2023) ##
   - [3377 phác đồ điều trị sốt rét 2023.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308815/3377.phac.d.di.u.tr.s.t.ret.2023.pdf)
+  - [Liều thuốc điều trị sốt rét 2022.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309012/Li.u.thu.c.di.u.tr.s.t.ret.2022.pdf)
 
 ## PHÁC ĐỒ BỆNH DA LIỄU (2023) ##
   - [4416 Điều trị các bệnh da liễu 2023.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308827/4416.Di.u.tr.cac.b.nh.da.li.u.2023.pdf)
 
 ## BỆNH MẠCH VÀNH CẤP (2020) ##
   - [Bệnh mạch vành cấp 2020.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308841/B.nh.m.ch.vanh.c.p.2020.pdf)
+  - [Quyết-định-2187-QĐ-BYT-Hướng-dẫn-chẩn-đoán-và-xử-trí-hội-chứng-mạch-vành-cấp 2019.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309094/Quy.t-d.nh-2187-QD-BYT-H.ng-d.n-ch.n-doan-va-x.-tri-h.i-ch.ng-m.ch-vanh-c.p.2019.pdf)
+
+## ĐỘT QUỴ NÃO (2020) ##
+  - [quyet-dinh-5331-qd-byt-huong-dan-chan-doan-va-xu-tri-dot-quy-nao.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309077/quyet-dinh-5331-qd-byt-huong-dan-chan-doan-va-xu-tri-dot-quy-nao.pdf)
 
 ## BỆNH PHỔI MÔ KẺ (2023) ##
   - [Bệnh phổi mô kẻ 2023.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308850/B.nh.ph.i.mo.k.2023.pdf)
 
-## BỆNH COPD (2018) ##
+## BỆNH COPD (2023) ##
+  - [quyet-dinh-2767-qd-byt-2023-chan-doan-dieu-tri-benh-phoi-tac-nghen-man-tinh.docx](https://github.com/BsNgChiThanh/phac-do/files/14309062/quyet-dinh-2767-qd-byt-2023-chan-doan-dieu-tri-benh-phoi-tac-nghen-man-tinh.docx)
   - [Bộ-Y-tế-Hướng-dẫn-chẩn-đoán-và-điều-trị-BPTNMT-bản-cập-nhật-2018.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308864/B.-Y-t.-H.ng-d.n-ch.n-doan-va-di.u-tr.-BPTNMT-b.n-c.p-nh.t-2018.pdf)
 
 ## CẨM NANG ĐIỀU TRỊ NỘI (2022) ##
@@ -53,10 +59,25 @@
 ## HỒI SỨC TÍCH CỰC (2015) ##
   - [Huong dan chan doan va xu tri hoi suc tich cuc  2015.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308895/Huong.dan.chan.doan.va.xu.tri.hoi.suc.tich.cuc.2015.pdf)
 
+## NGỘ ĐỘC (2015) ##
+  - [Huong-dan-chan-doan-va-xu-tri-Ngo-doc.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308972/Huong-dan-chan-doan-va-xu-tri-Ngo-doc.pdf)
+
+## BỆNH THẬN TIẾT NIỆU (2015) ##
+  - [Hướng-dẫn-chẩn-đoán-và-điều-trị-các-bệnh-Thận-Tiết-niệu.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308978/H.ng-d.n-ch.n-doan-va-di.u-tr.-cac-b.nh-Th.n-Ti.t-ni.u.pdf)
+
+## HEN NGƯỜI ≥ 12 TUỔI (2020) ##
+  - [Hướng-dẫn-chẩn-đoán-và-điều-trị-Hen-phế-quản-người-lớn-và-trẻ-_12-tuổi 2020.pdf](https://github.com/BsNgChiThanh/phac-do/files/14308994/H.ng-d.n-ch.n-doan-va-di.u-tr.-Hen-ph.-qu.n-ng.i-l.n-va-tr.-_12-tu.i.2020.pdf)
+
+## LAO PHỔI (2018) ##
+  - [Lao phổi 2018.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309009/Lao.ph.i.2018.pdf)
+
+## HUYẾT HỌC (2022) ##
+  - [Phác đồ điều trị bệnh huyết học 2022.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309030/Phac.d.di.u.tr.b.nh.huy.t.h.c.2022.pdf)
+
+## PHÁC ĐỒ NHI ĐỒNG 2 (2016) ##
+  - [PHAC ĐỒ ĐIỀU TRỊ NHI  CỦA NHI ĐỒNG 2 NĂM 2016.pdf](https://github.com/BsNgChiThanh/phac-do/files/14309038/PHAC.D.DI.U.TR.NHI.C.A.NHI.D.NG.2.NAM.2016.pdf)
+
 ## 
-
-
-
 
 
 
