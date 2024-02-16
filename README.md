@@ -26,6 +26,7 @@
   - ![0018](https://github.com/BsNgChiThanh/phac-do/assets/82578024/d76b363f-52d7-421b-8141-c5a4a588238c)
   - ![0019](https://github.com/BsNgChiThanh/phac-do/assets/82578024/1424190f-9a6f-47bd-bca3-a8687de79049)
   - ![0020](https://github.com/BsNgChiThanh/phac-do/assets/82578024/96be5293-3a98-458e-989a-62d61e5e11a0)
+  - [GIAY CHUYEN TUYEN SXH 2760 -chuẩn 2023.docx](https://github.com/BsNgChiThanh/phac-do/files/14308772/GIAY.CHUYEN.TUYEN.SXH.2760.-chu.n.2023.docx)
   - [Cân nặng hiệu chỉnh SXH người lớn.xlsx](https://github.com/BsNgChiThanh/phac-do/files/14308743/Can.n.ng.hi.u.ch.nh.SXH.ng.i.l.n.xlsx)
   - [Cân nặng truyền dịch SXH Trẻ em.xlsx](https://github.com/BsNgChiThanh/phac-do/files/14308746/Can.n.ng.truy.n.d.ch.SXH.Tr.em.xlsx)
 
